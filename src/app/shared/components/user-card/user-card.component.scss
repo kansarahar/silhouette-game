@@ -1,0 +1,10 @@
+.user-card-button {
+  ::ng-deep .p-button {
+    padding: 5px 10px;
+    color: var(--text-color);
+  }
+}
+
+.user-avatar {
+  padding-right: 10px;
+}
